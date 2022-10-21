@@ -18,7 +18,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "TTM Endpoint Uptime"
-  introMessage: This is test site
+  introMessage: This is a test site
   navbar:
     - title: Status
       href: /
