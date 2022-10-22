@@ -9,6 +9,19 @@ sites:
     url: https://tribtotalmedia.com
   - name: HSSN
     url: https://tribhssn.triblive.com
+  - name: Pennysaver
+    url: https://pittsburghpennysaver.com
+  - name: Best of the Best
+    url: https://bestofthebest.triblive.com
+  - name: Print Pittsburgh
+    url: https://printpittsburgh.com
+  - name: Heroes TribLIVE
+    url: https://heroes.triblive.com
+  - name: Real Estate TribLIVE
+    url: https://realestate.triblive.com
+  - name: Mediakit TribLIVE
+    url: https://mediakit.triblive.com
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
