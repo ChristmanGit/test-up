@@ -151,18 +151,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/media.triblive.com.ico",
     "slug": "mediakit-trib-live",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.78%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1168,
     "timeDay": 1265,
     "timeWeek": 1168,
     "timeMonth": 1168,
     "timeYear": 1168,
-    "dailyMinutesDown": {
-      "2022-10-25": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
