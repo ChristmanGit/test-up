@@ -32,6 +32,7 @@ status-website:
   name: Upptime
   introTitle: "TTM Endpoint Uptime"
   introMessage: This is a test site
+  theme: ocean
   navbar:
     - title: Status
       href: /
