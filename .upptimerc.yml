@@ -30,8 +30,8 @@ status-website:
   baseUrl: /test-up
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "TTM Endpoint Uptime"
-  introMessage: This is a test site
+  introTitle: "TribTotalMedia Website Monitoring"
+  introMessage: This is an uptime monitioring site
   theme: dark
   navbar:
     - title: Status
