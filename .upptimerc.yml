@@ -20,7 +20,7 @@ sites:
   - name: Real Estate TribLIVE
     url: https://realestate.triblive.com
   - name: Mediakit TribLIVE
-    url: https://media.triblive.com
+    url: https://mediakit.triblive.com
 
 
 status-website:
