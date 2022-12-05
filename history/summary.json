@@ -22,11 +22,11 @@
     "url": "https://tribtotalmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/tribtotalmedia.com.ico",
     "slug": "trib-total-media",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.40%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 329,
     "timeDay": 252,
@@ -34,7 +34,7 @@
     "timeMonth": 281,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2022-12-05": 23
+      "2022-12-05": 25
     }
   },
   {
@@ -60,10 +60,10 @@
     "url": "https://pittsburghpennysaver.com",
     "icon": "https://icons.duckduckgo.com/ip3/pittsburghpennysaver.com.ico",
     "slug": "pennysaver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "99.77%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 2303,
@@ -72,7 +72,7 @@
     "timeMonth": 2341,
     "timeYear": 2303,
     "dailyMinutesDown": {
-      "2022-12-05": 23
+      "2022-12-05": 24
     }
   },
   {
@@ -81,19 +81,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/bestofthebest.triblive.com.ico",
     "slug": "best-of-the-best",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 368,
     "timeDay": 273,
     "timeWeek": 362,
     "timeMonth": 338,
     "timeYear": 368,
-    "dailyMinutesDown": {
-      "2022-12-05": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Print Pittsburgh",
@@ -118,9 +116,9 @@
     "url": "https://heroes.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/heroes.triblive.com.ico",
     "slug": "heroes-trib-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.41%",
+    "uptimeDay": "98.37%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -130,7 +128,7 @@
     "timeMonth": 475,
     "timeYear": 442,
     "dailyMinutesDown": {
-      "2022-12-05": 23
+      "2022-12-05": 24
     }
   },
   {
@@ -139,29 +137,27 @@
     "icon": "https://icons.duckduckgo.com/ip3/realestate.triblive.com.ico",
     "slug": "real-estate-trib-live",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 607,
     "timeDay": 515,
     "timeWeek": 603,
     "timeMonth": 590,
     "timeYear": 607,
-    "dailyMinutesDown": {
-      "2022-12-05": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mediakit TribLIVE",
     "url": "https://mediakit.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/mediakit.triblive.com.ico",
     "slug": "mediakit-trib-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 805,
