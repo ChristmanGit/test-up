@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tribtotalmedia.com.ico",
     "slug": "trib-total-media",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.96%",
     "time": 328,
     "timeDay": 238,
     "timeWeek": 286,
     "timeMonth": 278,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-12-05": 29
+      "2022-12-05": 23
     }
   },
   {
@@ -62,9 +62,9 @@
     "slug": "pennysaver",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "98.01%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 2309,
     "timeDay": 2426,
@@ -72,7 +72,7 @@
     "timeMonth": 2355,
     "timeYear": 2309,
     "dailyMinutesDown": {
-      "2022-12-05": 29
+      "2022-12-05": 23
     }
   },
   {
@@ -136,19 +136,19 @@
     "url": "https://realestate.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/realestate.triblive.com.ico",
     "slug": "real-estate-trib-live",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 607,
-    "timeDay": 515,
-    "timeWeek": 603,
-    "timeMonth": 590,
-    "timeYear": 607,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 606,
+    "timeDay": 521,
+    "timeWeek": 595,
+    "timeMonth": 589,
+    "timeYear": 606,
     "dailyMinutesDown": {
-      "2022-12-05": 0
+      "2022-12-05": 5
     }
   },
   {
@@ -157,18 +157,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mediakit.triblive.com.ico",
     "slug": "mediakit-trib-live",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "97.94%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.94%",
+    "uptimeDay": "98.43%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.94%",
     "time": 807,
     "timeDay": 1001,
     "timeWeek": 1056,
     "timeMonth": 1038,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2022-12-05": 30,
+      "2022-12-05": 23,
       "2022-10-27": 18
     }
   }
