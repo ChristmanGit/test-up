@@ -22,10 +22,10 @@
     "url": "https://tribtotalmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/tribtotalmedia.com.ico",
     "slug": "trib-total-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 329,
@@ -33,7 +33,9 @@
     "timeWeek": 294,
     "timeMonth": 280,
     "timeYear": 329,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 2
+    }
   },
   {
     "name": "HSSN",
@@ -58,10 +60,10 @@
     "url": "https://pittsburghpennysaver.com",
     "icon": "https://icons.duckduckgo.com/ip3/pittsburghpennysaver.com.ico",
     "slug": "pennysaver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2293,
@@ -69,7 +71,9 @@
     "timeWeek": 2362,
     "timeMonth": 2314,
     "timeYear": 2293,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-05": 1
+    }
   },
   {
     "name": "Best of the Best",
@@ -112,19 +116,19 @@
     "url": "https://heroes.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/heroes.triblive.com.ico",
     "slug": "heroes-trib-live",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 441,
     "timeDay": 698,
     "timeWeek": 623,
     "timeMonth": 474,
     "timeYear": 441,
     "dailyMinutesDown": {
-      "2022-12-05": 6
+      "2022-12-05": 1
     }
   },
   {
@@ -150,19 +154,19 @@
     "url": "https://mediakit.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/mediakit.triblive.com.ico",
     "slug": "mediakit-trib-live",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 800,
     "timeDay": 969,
     "timeWeek": 1062,
     "timeMonth": 1038,
     "timeYear": 800,
     "dailyMinutesDown": {
-      "2022-12-05": 5,
+      "2022-12-05": 0,
       "2022-10-27": 18
     }
   }
