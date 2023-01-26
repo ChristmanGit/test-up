@@ -1,7 +1,7 @@
 url: https://heroes.triblive.com
-status: down
-code: 503
-responseTime: 201
-lastUpdated: 2023-01-26T16:46:10.164Z
+status: up
+code: 200
+responseTime: 449
+lastUpdated: 2023-01-26T16:52:06.424Z
 startTime: Sat Oct 22 2022 13:29:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
