@@ -1,7 +1,7 @@
 url: https://realestate.triblive.com
-status: down
-code: 500
-responseTime: 215
-lastUpdated: 2023-12-03T09:13:05.503Z
+status: up
+code: 200
+responseTime: 405
+lastUpdated: 2023-12-03T09:20:53.587Z
 startTime: 2022-10-22T13:29:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
