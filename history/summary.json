@@ -155,19 +155,19 @@
     "url": "https://realestate.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/realestate.triblive.com.ico",
     "slug": "real-estate-trib-live",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 515,
-    "timeDay": 773,
-    "timeWeek": 532,
-    "timeMonth": 530,
+    "timeDay": 638,
+    "timeWeek": 517,
+    "timeMonth": 525,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2023-12-09": 0
+      "2023-12-09": 4
     }
   },
   {
