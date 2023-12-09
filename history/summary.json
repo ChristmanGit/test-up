@@ -86,10 +86,10 @@
     "url": "https://bestofthebest.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/bestofthebest.triblive.com.ico",
     "slug": "best-of-the-best",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 367,
@@ -98,6 +98,7 @@
     "timeMonth": 395,
     "timeYear": 367,
     "dailyMinutesDown": {
+      "2023-12-09": 1,
       "2023-01-17": 18
     }
   },
@@ -107,7 +108,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/printpittsburgh.com.ico",
     "slug": "print-pittsburgh",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "95.59%",
     "uptimeWeek": "99.37%",
     "uptimeMonth": "99.86%",
@@ -157,18 +158,16 @@
     "slug": "real-estate-trib-live",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
     "timeDay": 638,
     "timeWeek": 517,
     "timeMonth": 525,
     "timeYear": 494,
-    "dailyMinutesDown": {
-      "2023-12-09": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mediakit TribLIVE",
