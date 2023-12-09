@@ -86,9 +86,9 @@
     "url": "https://bestofthebest.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/bestofthebest.triblive.com.ico",
     "slug": "best-of-the-best",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +98,7 @@
     "timeMonth": 383,
     "timeYear": 366,
     "dailyMinutesDown": {
+      "2023-12-09": 0,
       "2023-01-17": 18
     }
   },
