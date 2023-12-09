@@ -86,19 +86,19 @@
     "url": "https://bestofthebest.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/bestofthebest.triblive.com.ico",
     "slug": "best-of-the-best",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 366,
-    "timeDay": 395,
-    "timeWeek": 366,
-    "timeMonth": 385,
+    "timeDay": 377,
+    "timeWeek": 362,
+    "timeMonth": 383,
     "timeYear": 366,
     "dailyMinutesDown": {
-      "2023-12-09": 2,
+      "2023-12-09": 9,
       "2023-01-17": 18
     }
   },
@@ -156,9 +156,9 @@
     "url": "https://realestate.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/realestate.triblive.com.ico",
     "slug": "real-estate-trib-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -167,7 +167,9 @@
     "timeWeek": 517,
     "timeMonth": 525,
     "timeYear": 494,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-09": 0
+    }
   },
   {
     "name": "Mediakit TribLIVE",
