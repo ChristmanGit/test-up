@@ -4,9 +4,9 @@
     "url": "https://triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/triblive.com.ico",
     "slug": "trib-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 335,
     "timeYear": 297,
     "dailyMinutesDown": {
+      "2023-12-09": 0,
       "2023-05-20": 71,
       "2023-03-17": 30,
       "2023-03-07": 17,
@@ -157,18 +158,16 @@
     "slug": "real-estate-trib-live",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 515,
     "timeDay": 542,
     "timeWeek": 495,
     "timeMonth": 517,
     "timeYear": 493,
-    "dailyMinutesDown": {
-      "2023-12-09": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mediakit TribLIVE",
