@@ -90,9 +90,9 @@
     "slug": "best-of-the-best",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 366,
     "timeDay": 307,
@@ -100,7 +100,6 @@
     "timeMonth": 372,
     "timeYear": 364,
     "dailyMinutesDown": {
-      "2023-12-15": 7,
       "2023-01-17": 18
     }
   },
@@ -109,19 +108,19 @@
     "url": "https://printpittsburgh.com",
     "icon": "https://icons.duckduckgo.com/ip3/printpittsburgh.com.ico",
     "slug": "print-pittsburgh",
-    "status": "down",
-    "uptime": "99.75%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.14%",
-    "uptimeMonth": "99.80%",
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.71%",
     "time": 413,
-    "timeDay": 180,
-    "timeWeek": 338,
-    "timeMonth": 373,
+    "timeDay": 212,
+    "timeWeek": 334,
+    "timeMonth": 371,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-12-15": 8,
+      "2023-12-15": 13,
       "2023-12-09": 78,
       "2023-03-16": 82,
       "2023-01-04": 1034,
@@ -161,9 +160,9 @@
     "slug": "real-estate-trib-live",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 513,
     "timeDay": 290,
@@ -171,7 +170,7 @@
     "timeMonth": 498,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2023-12-15": 8
+      "2023-12-15": 13
     }
   },
   {
@@ -181,9 +180,9 @@
     "slug": "mediakit-trib-live",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 442,
@@ -191,7 +190,7 @@
     "timeMonth": 786,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2023-12-15": 8
+      "2023-12-15": 13
     }
   }
 ]
