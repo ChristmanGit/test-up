@@ -109,10 +109,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/printpittsburgh.com.ico",
     "slug": "print-pittsburgh",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.79%",
+    "uptime": "99.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.22%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.71%",
     "time": 413,
     "timeDay": 212,
@@ -120,7 +120,6 @@
     "timeMonth": 371,
     "timeYear": 411,
     "dailyMinutesDown": {
-      "2023-12-15": 13,
       "2023-12-09": 78,
       "2023-03-16": 82,
       "2023-01-04": 1034,
@@ -158,19 +157,19 @@
     "url": "https://realestate.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/realestate.triblive.com.ico",
     "slug": "real-estate-trib-live",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 290,
-    "timeWeek": 476,
-    "timeMonth": 498,
+    "time": 514,
+    "timeDay": 421,
+    "timeWeek": 493,
+    "timeMonth": 503,
     "timeYear": 491,
     "dailyMinutesDown": {
-      "2023-12-15": 13
+      "2023-12-15": 19
     }
   },
   {
@@ -178,19 +177,19 @@
     "url": "https://mediakit.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/mediakit.triblive.com.ico",
     "slug": "mediakit-trib-live",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 442,
-    "timeWeek": 763,
-    "timeMonth": 786,
+    "time": 940,
+    "timeDay": 562,
+    "timeWeek": 767,
+    "timeMonth": 787,
     "timeYear": 959,
     "dailyMinutesDown": {
-      "2023-12-15": 13
+      "2023-12-15": 19
     }
   }
 ]
