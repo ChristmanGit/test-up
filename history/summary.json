@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 303,
-    "timeDay": 547,
-    "timeWeek": 436,
-    "timeMonth": 369,
+    "timeDay": 138,
+    "timeWeek": 371,
+    "timeMonth": 358,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2024-01-02": 24,
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 495,
-    "timeWeek": 416,
-    "timeMonth": 316,
-    "timeYear": 315,
+    "timeDay": 196,
+    "timeWeek": 372,
+    "timeMonth": 309,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2023-12-15": 20
     }
@@ -57,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 500,
-    "timeWeek": 446,
-    "timeMonth": 312,
-    "timeYear": 326,
+    "timeDay": 229,
+    "timeWeek": 403,
+    "timeMonth": 304,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2474,
-    "timeDay": 3012,
-    "timeWeek": 2408,
-    "timeMonth": 2448,
-    "timeYear": 2509,
+    "time": 2473,
+    "timeDay": 2127,
+    "timeWeek": 2285,
+    "timeMonth": 2427,
+    "timeYear": 2506,
     "dailyMinutesDown": {}
   },
   {
@@ -93,13 +93,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 363,
-    "timeDay": 528,
-    "timeWeek": 432,
-    "timeMonth": 366,
-    "timeYear": 369,
-    "dailyMinutesDown": {
-      "2023-01-17": 18
-    }
+    "timeDay": 185,
+    "timeWeek": 384,
+    "timeMonth": 358,
+    "timeYear": 368,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Print Pittsburgh",
@@ -113,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 413,
-    "timeDay": 584,
-    "timeWeek": 506,
-    "timeMonth": 423,
-    "timeYear": 415,
+    "timeDay": 289,
+    "timeWeek": 466,
+    "timeMonth": 414,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2023-12-09": 78,
       "2023-03-16": 82
@@ -133,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 628,
-    "timeDay": 1484,
-    "timeWeek": 1388,
-    "timeMonth": 1268,
-    "timeYear": 695,
+    "time": 629,
+    "timeDay": 1222,
+    "timeWeek": 1335,
+    "timeMonth": 1282,
+    "timeYear": 696,
     "dailyMinutesDown": {
       "2023-06-04": 25,
       "2023-05-09": 17,
@@ -155,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 511,
-    "timeDay": 665,
-    "timeWeek": 573,
-    "timeMonth": 457,
-    "timeYear": 485,
+    "time": 510,
+    "timeDay": 321,
+    "timeWeek": 523,
+    "timeMonth": 448,
+    "timeYear": 484,
     "dailyMinutesDown": {
       "2023-12-15": 19
     }
@@ -175,11 +173,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 990,
-    "timeWeek": 996,
-    "timeMonth": 846,
-    "timeYear": 932,
+    "time": 933,
+    "timeDay": 510,
+    "timeWeek": 952,
+    "timeMonth": 834,
+    "timeYear": 930,
     "dailyMinutesDown": {
       "2023-12-15": 19
     }
