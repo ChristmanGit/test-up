@@ -6,9 +6,9 @@
     "slug": "trib-live",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
     "time": 338,
     "timeDay": 70,
@@ -16,7 +16,7 @@
     "timeMonth": 421,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-03-24": 0,
+      "2024-03-24": 10,
       "2024-01-02": 24,
       "2023-05-20": 71
     }
