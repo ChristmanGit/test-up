@@ -10,16 +10,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 342,
-    "timeDay": 163,
-    "timeWeek": 316,
-    "timeMonth": 333,
-    "timeYear": 354,
+    "time": 343,
+    "timeDay": 557,
+    "timeWeek": 311,
+    "timeMonth": 332,
+    "timeYear": 355,
     "dailyMinutesDown": {
       "2024-04-22": 15,
       "2024-03-24": 53,
-      "2024-01-02": 24,
-      "2023-05-20": 71
+      "2024-01-02": 24
     }
   },
   {
@@ -33,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 295,
-    "timeWeek": 383,
-    "timeMonth": 357,
-    "timeYear": 315,
+    "time": 317,
+    "timeDay": 575,
+    "timeWeek": 395,
+    "timeMonth": 362,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2023-12-15": 20
     }
@@ -53,11 +52,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 318,
-    "timeDay": 122,
-    "timeWeek": 305,
-    "timeMonth": 297,
-    "timeYear": 316,
+    "time": 319,
+    "timeDay": 564,
+    "timeWeek": 289,
+    "timeMonth": 298,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2024-05-15": 16
     }
@@ -73,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2509,
-    "timeDay": 2799,
-    "timeWeek": 2637,
-    "timeMonth": 2567,
-    "timeYear": 2511,
+    "time": 2507,
+    "timeDay": 1717,
+    "timeWeek": 2543,
+    "timeMonth": 2503,
+    "timeYear": 2508,
     "dailyMinutesDown": {}
   },
   {
@@ -92,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 198,
-    "timeWeek": 379,
-    "timeMonth": 378,
-    "timeYear": 363,
+    "timeDay": 505,
+    "timeWeek": 359,
+    "timeMonth": 374,
+    "timeYear": 364,
     "dailyMinutesDown": {}
   },
   {
@@ -110,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 408,
-    "timeDay": 296,
-    "timeWeek": 426,
-    "timeMonth": 413,
+    "timeDay": 561,
+    "timeWeek": 416,
+    "timeMonth": 414,
     "timeYear": 407,
     "dailyMinutesDown": {
       "2023-12-09": 78
@@ -129,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 1666,
-    "timeWeek": 1691,
-    "timeMonth": 1736,
-    "timeYear": 931,
+    "time": 914,
+    "timeDay": 1417,
+    "timeWeek": 1660,
+    "timeMonth": 1712,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2023-06-04": 25
     }
@@ -145,15 +144,15 @@
     "slug": "real-estate-trib-live",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 491,
     "timeDay": 644,
-    "timeWeek": 541,
+    "timeWeek": 537,
     "timeMonth": 509,
-    "timeYear": 493,
+    "timeYear": 494,
     "dailyMinutesDown": {
       "2024-05-17": 18,
       "2023-12-15": 19
@@ -170,11 +169,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 929,
-    "timeDay": 874,
-    "timeWeek": 982,
-    "timeMonth": 1044,
-    "timeYear": 876,
+    "time": 930,
+    "timeDay": 1249,
+    "timeWeek": 1001,
+    "timeMonth": 1051,
+    "timeYear": 878,
     "dailyMinutesDown": {
       "2023-12-15": 19
     }
