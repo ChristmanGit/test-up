@@ -84,19 +84,19 @@
     "url": "https://bestofthebest.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/bestofthebest.triblive.com.ico",
     "slug": "best-of-the-best",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.00%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 365,
-    "timeDay": 311,
-    "timeWeek": 335,
-    "timeMonth": 380,
+    "timeDay": 289,
+    "timeWeek": 325,
+    "timeMonth": 376,
     "timeYear": 363,
     "dailyMinutesDown": {
-      "2024-05-23": 0
+      "2024-05-23": 14
     }
   },
   {
