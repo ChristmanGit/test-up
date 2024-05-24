@@ -102,18 +102,19 @@
     "url": "https://printpittsburgh.com",
     "icon": "https://icons.duckduckgo.com/ip3/printpittsburgh.com.ico",
     "slug": "print-pittsburgh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 409,
-    "timeDay": 384,
+    "timeDay": 412,
     "timeWeek": 444,
-    "timeMonth": 426,
+    "timeMonth": 427,
     "timeYear": 408,
     "dailyMinutesDown": {
+      "2024-05-24": 0,
       "2023-12-09": 78
     }
   },
@@ -143,10 +144,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/realestate.triblive.com.ico",
     "slug": "real-estate-trib-live",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 490,
     "timeDay": 402,
@@ -154,7 +155,6 @@
     "timeMonth": 507,
     "timeYear": 494,
     "dailyMinutesDown": {
-      "2024-05-24": 12,
       "2024-05-17": 18,
       "2023-12-15": 19
     }
