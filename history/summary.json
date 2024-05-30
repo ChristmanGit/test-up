@@ -92,7 +92,7 @@
     "uptimeYear": "100.00%",
     "time": 365,
     "timeDay": 570,
-    "timeWeek": 383,
+    "timeWeek": 442,
     "timeMonth": 381,
     "timeYear": 366,
     "dailyMinutesDown": {}
@@ -164,18 +164,19 @@
     "url": "https://mediakit.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/mediakit.triblive.com.ico",
     "slug": "mediakit-trib-live",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 926,
-    "timeDay": 1130,
-    "timeWeek": 1199,
-    "timeMonth": 1051,
-    "timeYear": 882,
+    "time": 923,
+    "timeDay": 688,
+    "timeWeek": 1080,
+    "timeMonth": 1025,
+    "timeYear": 880,
     "dailyMinutesDown": {
+      "2024-05-30": 0,
       "2023-12-15": 19
     }
   }
