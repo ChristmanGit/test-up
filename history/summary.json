@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 345,
-    "timeDay": 151,
-    "timeWeek": 281,
-    "timeMonth": 320,
-    "timeYear": 359,
+    "time": 344,
+    "timeDay": 156,
+    "timeWeek": 285,
+    "timeMonth": 304,
+    "timeYear": 358,
     "dailyMinutesDown": {
       "2024-04-22": 15,
       "2024-03-24": 53,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 344,
-    "timeWeek": 398,
-    "timeMonth": 364,
+    "timeDay": 276,
+    "timeWeek": 401,
+    "timeMonth": 358,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2023-12-15": 20
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 320,
-    "timeDay": 56,
-    "timeWeek": 311,
-    "timeMonth": 327,
+    "timeDay": 374,
+    "timeWeek": 349,
+    "timeMonth": 323,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2024-05-15": 16
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2518,
-    "timeDay": 2730,
-    "timeWeek": 2634,
-    "timeMonth": 2622,
-    "timeYear": 2511,
+    "timeDay": 1660,
+    "timeWeek": 2522,
+    "timeMonth": 2557,
+    "timeYear": 2509,
     "dailyMinutesDown": {}
   },
   {
@@ -90,10 +90,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 199,
-    "timeWeek": 386,
-    "timeMonth": 374,
+    "time": 365,
+    "timeDay": 254,
+    "timeWeek": 394,
+    "timeMonth": 362,
     "timeYear": 366,
     "dailyMinutesDown": {}
   },
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 411,
-    "timeDay": 475,
-    "timeWeek": 432,
-    "timeMonth": 448,
-    "timeYear": 412,
+    "time": 410,
+    "timeDay": 312,
+    "timeWeek": 430,
+    "timeMonth": 440,
+    "timeYear": 411,
     "dailyMinutesDown": {
       "2024-05-24": 27,
       "2023-12-09": 78
@@ -129,14 +129,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 945,
-    "timeDay": 1175,
-    "timeWeek": 1414,
-    "timeMonth": 1621,
-    "timeYear": 941,
-    "dailyMinutesDown": {
-      "2023-06-04": 25
-    }
+    "time": 949,
+    "timeDay": 2280,
+    "timeWeek": 1565,
+    "timeMonth": 1641,
+    "timeYear": 945,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Real Estate TribLIVE",
@@ -150,9 +148,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 493,
-    "timeDay": 425,
-    "timeWeek": 678,
-    "timeMonth": 551,
+    "timeDay": 311,
+    "timeWeek": 503,
+    "timeMonth": 535,
     "timeYear": 500,
     "dailyMinutesDown": {
       "2024-05-17": 18,
@@ -171,10 +169,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 925,
-    "timeDay": 1379,
-    "timeWeek": 1146,
-    "timeMonth": 1069,
-    "timeYear": 886,
+    "timeDay": 1365,
+    "timeWeek": 1199,
+    "timeMonth": 1072,
+    "timeYear": 887,
     "dailyMinutesDown": {
       "2024-05-30": 17,
       "2023-12-15": 19
