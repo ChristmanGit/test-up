@@ -26,18 +26,19 @@
     "url": "https://tribtotalmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/tribtotalmedia.com.ico",
     "slug": "trib-total-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 320,
+    "time": 319,
     "timeDay": 516,
     "timeWeek": 403,
     "timeMonth": 351,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2024-07-28": 1,
       "2023-12-15": 20
     }
   },
@@ -66,18 +67,20 @@
     "url": "https://pittsburghpennysaver.com",
     "icon": "https://icons.duckduckgo.com/ip3/pittsburghpennysaver.com.ico",
     "slug": "pennysaver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2520,
+    "time": 2519,
     "timeDay": 3036,
     "timeWeek": 2388,
     "timeMonth": 2557,
     "timeYear": 2501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-07-28": 1
+    }
   },
   {
     "name": "Best of the Best",
