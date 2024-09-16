@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 336,
     "timeDay": 169,
-    "timeWeek": 217,
+    "timeWeek": 224,
     "timeMonth": 213,
     "timeYear": 342,
     "dailyMinutesDown": {
@@ -141,9 +141,9 @@
     "url": "https://realestate.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/realestate.triblive.com.ico",
     "slug": "real-estate-trib-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -153,6 +153,7 @@
     "timeMonth": 484,
     "timeYear": 495,
     "dailyMinutesDown": {
+      "2024-09-16": 0,
       "2024-05-17": 18,
       "2023-12-15": 19
     }
