@@ -26,9 +26,9 @@
     "url": "https://tribtotalmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/tribtotalmedia.com.ico",
     "slug": "trib-total-media",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 338,
     "timeYear": 325,
     "dailyMinutesDown": {
+      "2024-09-18": 0,
       "2023-12-15": 20
     }
   },
