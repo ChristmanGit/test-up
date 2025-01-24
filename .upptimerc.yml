@@ -21,8 +21,7 @@ sites:
     url: https://realestate.triblive.com
   - name: Mediakit TribLIVE
     url: https://mediakit.triblive.com
-  - name: HQ Connectivity
-    url: https://208.103.127.250
+
 
 
 status-website:
