@@ -22,7 +22,9 @@ sites:
   - name: Mediakit TribLIVE
     url: https://mediakit.triblive.com
   - name: HQ Connectivity
-    url: https://208.103.127.250
+    check: "tcp-ping"
+    url: 208.103.127.250
+    port: 443
 
 
 status-website:
