@@ -23,7 +23,7 @@ sites:
     url: https://mediakit.triblive.com
   - name: HQ Connectivity
     check: "tcp-ping"
-    url: 208.103.127.250
+    url: $HQ_ENDPOINT
     port: 443
 
 
