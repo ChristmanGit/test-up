@@ -66,18 +66,20 @@
     "url": "https://pittsburghpennysaver.com",
     "icon": "https://icons.duckduckgo.com/ip3/pittsburghpennysaver.com.ico",
     "slug": "pennysaver",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2115,
+    "time": 2113,
     "timeDay": 1069,
     "timeWeek": 1141,
     "timeMonth": 1446,
     "timeYear": 1992,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-28": 0
+    }
   },
   {
     "name": "Best of the Best",
