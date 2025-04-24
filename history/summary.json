@@ -102,9 +102,9 @@
     "url": "https://printpittsburgh.com",
     "icon": "https://icons.duckduckgo.com/ip3/printpittsburgh.com.ico",
     "slug": "print-pittsburgh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
@@ -114,6 +114,7 @@
     "timeMonth": 519,
     "timeYear": 424,
     "dailyMinutesDown": {
+      "2025-04-24": 0,
       "2024-10-03": 484,
       "2024-05-24": 27
     }
