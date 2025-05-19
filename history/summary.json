@@ -82,18 +82,20 @@
     "url": "https://bestofthebest.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/bestofthebest.triblive.com.ico",
     "slug": "best-of-the-best",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 368,
-    "timeDay": 221,
-    "timeWeek": 347,
-    "timeMonth": 445,
+    "time": 369,
+    "timeDay": 304,
+    "timeWeek": 352,
+    "timeMonth": 443,
     "timeYear": 374,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-19": 0
+    }
   },
   {
     "name": "Print Pittsburgh",
