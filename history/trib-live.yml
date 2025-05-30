@@ -1,7 +1,7 @@
 url: https://triblive.com
-status: up
-code: 200
-responseTime: 719
-lastUpdated: 2025-05-29T23:10:26.576Z
+status: down
+code: 502
+responseTime: 384
+lastUpdated: 2025-05-30T12:16:35.763Z
 startTime: 2022-10-21T20:53:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
