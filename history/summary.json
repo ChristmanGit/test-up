@@ -35,19 +35,19 @@
     "url": "https://tribtotalmedia.com",
     "icon": "https://icons.duckduckgo.com/ip3/tribtotalmedia.com.ico",
     "slug": "trib-total-media",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 379,
-    "timeDay": 280,
-    "timeWeek": 680,
-    "timeMonth": 499,
-    "timeYear": 391,
+    "time": 380,
+    "timeDay": 442,
+    "timeWeek": 671,
+    "timeMonth": 502,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 9
     }
   },
   {
