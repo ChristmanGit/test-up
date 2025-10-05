@@ -167,18 +167,20 @@
     "url": "https://mediakit.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/mediakit.triblive.com.ico",
     "slug": "mediakit-trib-live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1243,
+    "time": 1242,
     "timeDay": 1071,
     "timeWeek": 1136,
     "timeMonth": 1048,
     "timeYear": 1187,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-05": 0
+    }
   },
   {
     "name": "HQ Connectivity",
