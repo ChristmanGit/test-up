@@ -56,9 +56,9 @@
     "slug": "hssn",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "96.59%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.89%",
     "time": 331,
     "timeDay": 252,
@@ -66,7 +66,7 @@
     "timeMonth": 413,
     "timeYear": 349,
     "dailyMinutesDown": {
-      "2025-10-23": 49,
+      "2025-10-23": 43,
       "2025-07-09": 521
     }
   },
@@ -134,19 +134,19 @@
     "url": "https://heroes.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/heroes.triblive.com.ico",
     "slug": "heroes-trib-live",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2455,
-    "timeDay": 1458,
-    "timeWeek": 2201,
-    "timeMonth": 2973,
-    "timeYear": 2619,
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
+    "time": 2457,
+    "timeDay": 1676,
+    "timeWeek": 2262,
+    "timeMonth": 2974,
+    "timeYear": 2620,
     "dailyMinutesDown": {
-      "2025-10-23": 0
+      "2025-10-23": 26
     }
   },
   {
@@ -156,18 +156,16 @@
     "slug": "real-estate-trib-live",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 550,
     "timeDay": 466,
     "timeWeek": 612,
     "timeMonth": 733,
     "timeYear": 573,
-    "dailyMinutesDown": {
-      "2025-10-23": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Mediakit TribLIVE",
