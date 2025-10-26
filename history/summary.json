@@ -174,19 +174,19 @@
     "url": "https://mediakit.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/mediakit.triblive.com.ico",
     "slug": "mediakit-trib-live",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1237,
-    "timeDay": 1013,
-    "timeWeek": 1046,
-    "timeMonth": 1199,
-    "timeYear": 1178,
+    "time": 1236,
+    "timeDay": 1005,
+    "timeWeek": 1040,
+    "timeMonth": 1193,
+    "timeYear": 1177,
     "dailyMinutesDown": {
-      "2025-10-26": 0
+      "2025-10-26": 12
     }
   },
   {
