@@ -54,18 +54,19 @@
     "url": "https://tribhssn.triblive.com",
     "icon": "https://icons.duckduckgo.com/ip3/tribhssn.triblive.com.ico",
     "slug": "hssn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 335,
-    "timeDay": 182,
+    "timeDay": 236,
     "timeWeek": 286,
-    "timeMonth": 321,
+    "timeMonth": 320,
     "timeYear": 360,
     "dailyMinutesDown": {
+      "2026-02-28": 0,
       "2025-11-18": 122,
       "2025-10-23": 70,
       "2025-07-09": 521
@@ -86,7 +87,7 @@
     "timeDay": 892,
     "timeWeek": 1093,
     "timeMonth": 1154,
-    "timeYear": 1280,
+    "timeYear": 1279,
     "dailyMinutesDown": {}
   },
   {
