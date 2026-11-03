@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 366,
-    "timeDay": 108,
-    "timeWeek": 164,
-    "timeMonth": 319,
+    "timeDay": 260,
+    "timeWeek": 189,
+    "timeMonth": 308,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2025-11-18": 128
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 407,
-    "timeDay": 369,
-    "timeWeek": 348,
-    "timeMonth": 371,
+    "timeDay": 391,
+    "timeWeek": 371,
+    "timeMonth": 364,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2026-03-06": 47
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 350,
-    "timeDay": 145,
-    "timeWeek": 266,
-    "timeMonth": 367,
-    "timeYear": 315,
+    "timeDay": 460,
+    "timeWeek": 298,
+    "timeMonth": 355,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2025-11-18": 122,
       "2026-02-28": 277
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1233,
-    "timeDay": 608,
-    "timeWeek": 787,
-    "timeMonth": 806,
+    "timeDay": 934,
+    "timeWeek": 849,
+    "timeMonth": 803,
     "timeYear": 1204,
     "dailyMinutesDown": {}
   },
@@ -89,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 455,
-    "timeDay": 292,
-    "timeWeek": 347,
-    "timeMonth": 389,
+    "time": 456,
+    "timeDay": 421,
+    "timeWeek": 375,
+    "timeMonth": 384,
     "timeYear": 438,
     "dailyMinutesDown": {
       "2025-11-18": 129,
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 551,
-    "timeDay": 316,
-    "timeWeek": 455,
-    "timeMonth": 536,
-    "timeYear": 561,
+    "time": 552,
+    "timeDay": 528,
+    "timeWeek": 461,
+    "timeMonth": 524,
+    "timeYear": 559,
     "dailyMinutesDown": {
       "2025-11-18": 147,
       "2026-04-10": 52
@@ -126,19 +126,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/heroes.triblive.com.ico",
     "slug": "heroes-trib-live",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 1606,
+    "uptime": "99.95%",
+    "uptimeDay": "50.08%",
+    "uptimeWeek": "92.87%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "99.84%",
+    "time": 1603,
     "timeDay": 477,
-    "timeWeek": 351,
-    "timeMonth": 389,
-    "timeYear": 1221,
+    "timeWeek": 356,
+    "timeMonth": 381,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2025-11-18": 129,
-      "2026-11-02": 0
+      "2026-11-03": 355,
+      "2026-11-02": 364
     }
   },
   {
@@ -152,11 +153,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 599,
-    "timeDay": 252,
-    "timeWeek": 364,
-    "timeMonth": 398,
-    "timeYear": 550,
+    "time": 579,
+    "timeDay": 496,
+    "timeWeek": 399,
+    "timeMonth": 397,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2025-11-18": 103
     }
@@ -173,10 +174,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1034,
-    "timeDay": 855,
-    "timeWeek": 958,
-    "timeMonth": 984,
-    "timeYear": 1037,
+    "timeDay": 884,
+    "timeWeek": 996,
+    "timeMonth": 975,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2025-11-30": 15,
       "2025-12-02": 21
@@ -194,10 +195,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 41,
-    "timeDay": 24,
-    "timeWeek": 30,
+    "timeDay": 58,
+    "timeWeek": 35,
     "timeMonth": 40,
-    "timeYear": 40,
+    "timeYear": 41,
     "dailyMinutesDown": {}
   }
 ]
